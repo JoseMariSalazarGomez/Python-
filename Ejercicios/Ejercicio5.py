@@ -1,4 +1,4 @@
-#EJERCICIO 4 PHYTON JOSÉ MARÍA SALAZAR GÓMEZ
+#EJERCICIO 5 PHYTON JOSÉ MARÍA SALAZAR GÓMEZ
 
 frase = input("Introduce una frase: ")
 letra_para_reemplazar = input("Introduce la letra que quieras: ")
